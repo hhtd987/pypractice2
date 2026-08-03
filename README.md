@@ -7,3 +7,4 @@
 # IT department description
 # training department description
 # Pull Resests Practice
+# fixing spelling mistake
